@@ -1,0 +1,9 @@
+/bin/
+/lib/
+
+.vscode/
+
+# Eclipse project files
+.classpath
+.project
+
